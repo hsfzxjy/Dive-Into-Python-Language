@@ -37,7 +37,7 @@
  + 协程（Coroutines）
    + 引言
    + 思想（Philosophy）
-   + 语法（Coroutines）
+   + 语法（Syntax）
    + asyncio 模块（The asyncio Module）
  + CPython 相关（About CPython）
    + 引言
