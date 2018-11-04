@@ -7,7 +7,7 @@
  + 前言：从 Pythonic 谈起
  + 语法与语义（Grammar & Semantics）
    + 引言
-   + [数据模型（Data Model）](./ch01-Grammar-and-Semantics/ch01-Data-Model.md)
+   + [数据模型（Data Model）](./source/ch01-Grammar-and-Semantics/ch01-Data-Model.md)
    + 作用域、命名空间与名称绑定（Scopes & Namespaces & Binding）
    + 表达式与语句（Expressions & Statements）
    + 块（Blocks）
