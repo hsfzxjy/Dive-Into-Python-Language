@@ -8,9 +8,8 @@
  + 语法与语义（Grammar & Semantics）
    + 引言
    + [数据模型（Data Model）](./source/ch01-Grammar-and-Semantics/01-Data-Model.md)
-   + 作用域、命名空间与名称绑定（Scopes & Namespaces & Binding）
+   + 代码块、名称绑定与名称解析（Code Blocks & Name Bindings & Name Resolutions）
    + 表达式与语句（Expressions & Statements）
-   + 块（Blocks）
    + 函数（Functions）
    + 推导式（Comprehensions）
    + 生成器与迭代器（Generators & Iterators）
