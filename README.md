@@ -8,10 +8,10 @@
  + 语法与语义（Grammar & Semantics）
    + 引言
    + [数据模型（Data Model）](./source/ch01-Grammar-and-Semantics/01-Data-Model.md)
-   + 代码块、名称绑定与名称解析（Code Blocks & Name Bindings & Name Resolutions）
-   + 表达式与语句（Expressions & Statements）
-   + 函数（Functions）
+   + 名称规则（Naming Rules）
+   + 函数与类定义（Functions & Class Definition）
    + 推导式（Comprehensions）
+   + 表达式与语句（Expressions & Statements）
    + 生成器与迭代器（Generators & Iterators）
    + 上下文管理器（Context Managers）
    + 装饰器（Decorators）
