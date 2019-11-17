@@ -1,3 +1,7 @@
+---
+dbox:/DIPL-source/ch01-Grammar-and-Semantics/02-Naming-Rules.md
+---
+
 # 名称规则
 
 我们从上一节了解到，Python 中一切都是对象。这里自然产生了一个问题：作为程序的编写者，我们应该如何使用这些对象？我们不可能用物理地址去索引对象，这样既不高效，也很容易出错。
