@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo mount --bind $HOME/Dropbox/DIPL-source $PWD/source
